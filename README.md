@@ -1,6 +1,6 @@
 ## 基于BiLSTM的生成式文本摘要模型
 
-本项目使用了一个基于双BiLSTM Encoder/Decoder Seq2Seq的文本摘要模型，通过相对较轻量化的模型，实现可观的生成式文本摘要效果，并可能用于移动部署。
+本项目使用了一个基于BiLSTM Encoder  /  LSTM Decoder Seq2Seq的文本摘要模型，通过相对较轻量化的模型，实现可观的生成式文本摘要效果，并可能用于移动部署。
 
 
 
