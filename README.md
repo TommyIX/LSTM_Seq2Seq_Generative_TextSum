@@ -6,6 +6,7 @@
 
 #### 项目文件结构
 
+* alter_models：内含自对比实验使用的各个模型，详见其内部的README
 * data：内含用于训练的轻量新闻数据集
 * utils：内含辅助的工具代码，详见其内部的README
   * Evaluate.ipynb：提供可修改的单句，可以自由输入句子进行验证
@@ -37,6 +38,12 @@ pip -r requirements.txt
 权重文件自动保存为model.pth。eval代码可以自行选择权重文件（更改目录即可），或者自动调用同目录下的model.pth
 
 eval_once更改测试文本即可使用
+
+
+
+#### 自对比实验结果
+
+![image-20210701112608284](README-Resources/image-20210701112608284.png)
 
 
 
