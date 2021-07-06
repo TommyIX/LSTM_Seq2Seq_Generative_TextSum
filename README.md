@@ -2,6 +2,8 @@
 
 本项目使用了一个基于BiLSTM Encoder  /  LSTM Decoder Seq2Seq的文本摘要模型，通过相对较轻量化的模型，实现可观的生成式文本摘要效果，并可能用于移动部署。
 
+### DEMO地址：[TommyIX/SIMPRead: A Chrome Extension based on TextSUM Deep Learning model and piggyreader for easier and better text browsing (github.com)](https://github.com/TommyIX/SIMPRead)
+
 
 
 #### 项目文件结构
